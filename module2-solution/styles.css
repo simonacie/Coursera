@@ -24,7 +24,7 @@ h1{
 }
 #box2 .heading{
     color: white;
-    background-color: rgb(255, 234, 117);
+    background-color: rgb(227, 191, 73);
 }
 #box3 .heading{
     background-color: rgb(255, 179, 201);
@@ -71,5 +71,5 @@ p{
 
 
 #box1,#box2,#box3{
-    background-color: greypapayawhip;
+    background-color: moccasin;
 }
